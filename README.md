@@ -1,4 +1,4 @@
-# Neural-Networks
+# Neural-Networks for  binary  classification problem
 In  this assignment,I learnt how  to train a neural  network for  binary  classification problem on a moderately sized dataset.
 
 Preparation:First  you  will  need  to download the “spambase_mod.csv” file included. The dataset is provided in CSV format. This is a 4601 x 58dataset where there are 4601samples (observations) of 57features (x1, x2, ..., x57) and 1 binary class label (y)at the last column.The last column denotes whether the e-mail was consideredspam (1) or not (0), i.e.  unsolicited  commercial  e-mail. Most  of  the  attributes indicate  whether  a  particular  word  or character  was  frequently occurringin  the  e-mail.  The  run-length attributes  (55-57)  measure  the length of sequences of consecutive capitalletters. 
